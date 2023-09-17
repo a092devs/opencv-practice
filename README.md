@@ -57,5 +57,5 @@ $ pip install caer canaro
 # Credits
 - [**`Jason Dsouza`**](https://www.youtube.com/@jasmcaus)
 - [**`OpenCV`**](https://opencv.org/)
-- The images in the [Photos](https://github.com/jasmcaus/opencv-course/tree/master/Resources/Photos) and [Videos](https://github.com/jasmcaus/opencv-course/tree/master/Resources/Videos) folders were downloaded from [Unsplash](http://unsplash.com) and [Pixabay](http://pixabay.com), unless otherwise mentioned.
-- The images in the [Faces](https://github.com/jasmcaus/opencv-course/tree/master/Resources/Faces) folder were procurred from a [repo](https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset) on Kaggle.
+- The images in the [Photos](https://github.com/a092devs/opencv-practice/tree/master/Photos) and [Videos](https://github.com/a092devs/opencv-practice/tree/master/Videos) folders were downloaded from [Unsplash](http://unsplash.com) and [Pixabay](http://pixabay.com), unless otherwise mentioned.
+- The images in the [Faces](https://github.com/a092devs/opencv-practice/tree/master/Faces) folder were procurred from a [repo](https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset) on Kaggle.
