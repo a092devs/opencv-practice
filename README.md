@@ -19,14 +19,12 @@ $ pip install tensorflow
 
 ### 1.4 Install Caer
 [**`Caer`**](https://github.com/jasmcaus/caer/) is a *lightweight, high-performance* Vision library for high-performance AI research. It simplifies your approach towards Computer Vision by abstracting away unnecessary boilerplate code giving you the **flexibility** to quickly prototype deep learning models and research ideas.
-```
-bash 
+```bash 
 $ pip install caer
 ```
 
 ### 1.4 Install canaro
-```
-bash
+```bash
 $ pip install caer canaro
 ```
 
