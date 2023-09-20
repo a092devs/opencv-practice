@@ -1,13 +1,13 @@
 import cv2 as cv
 
 # Reading Images
-img = cv.imread('Photos/cat_large.jpg')
+img = cv.imread('..Resources/Photos/cat_large.jpg')
 
 cv.imshow('Cat', img)
 cv.waitKey(0) # 0 means infinite time until we press any key
 
 # Reading Videos
-capture = cv.VideoCapture('Videos/dog.mp4')
+capture = cv.VideoCapture('..Resources/Videos/dog.mp4')
 
 while True:
     isTrue, frame = capture.read()

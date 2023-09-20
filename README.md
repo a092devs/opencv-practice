@@ -4,28 +4,28 @@ This repository contains the code for OpenCV with Python. OpenCV is a library of
 ## 1. Installation
 ### 1.1. Install OpenCV Contrib
 ```bash
-$ pip install opencv-contrib-python
+pip install opencv-contrib-python
 ```
 
 ### 1.2 Install Matplotlib
 ```bash
-$ pip install matplotlib
+pip install matplotlib
 ```
 
 ### 1.3 Install Tensorflow
 ```bash
-$ pip install tensorflow
+pip install tensorflow
 ```
 
 ### 1.4 Install Caer
 [**`Caer`**](https://github.com/jasmcaus/caer/) is a *lightweight, high-performance* Vision library for high-performance AI research. It simplifies your approach towards Computer Vision by abstracting away unnecessary boilerplate code giving you the **flexibility** to quickly prototype deep learning models and research ideas.
 ```bash 
-$ pip install caer
+pip install caer
 ```
 
 ### 1.4 Install canaro
 ```bash
-$ pip install caer canaro
+pip install caer canaro
 ```
 
 ## 2. Basic Concepts

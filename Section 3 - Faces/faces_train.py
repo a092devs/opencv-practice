@@ -4,13 +4,13 @@ import numpy as np
 
 # # get the list of names of all the folder in the train directory using os.listdir()
 # p = []
-# for i in os.listdir('Faces/train'):
+# for i in os.listdir('..Resources/Faces/train'):
 #     p.append(i)
 # print(p)
 
 # manually create a list of all the images in the folder
 people = ['Ben Afflek', 'Elton John', 'Jerry Seinfield', 'Madonna', 'Mindy Kaling']
-DIR = 'Faces/train'
+DIR = '..Resources/Faces/train'
 
 haar_cascade = cv.CascadeClassifier('haar_face.xml')
 
